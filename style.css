@@ -1,0 +1,284 @@
+*{
+    margin:0;
+    padding:0
+}
+h1,.ll{
+    display: inline-block;
+    color: #ff9f7a;
+    cursor:pointer;
+}
+
+.ll{
+    margin-left: 10%;
+    font-size: larger;
+}
+
+#a1,#a2,#a3{
+    margin-right: 30px;
+    text-decoration:none;
+    cursor:pointer;
+}
+
+#a1:visited{
+    color: #ff9f7a;
+}
+
+#a2,#a3{
+    color: black;
+}
+
+.search{
+    width: 12%;
+    height: 35px;
+    border-radius: 15px;
+    -webkit-tap-highlight-color:rgba(255,0,0,0);
+    outline: none;
+    background-image: url('images/wxb搜索推广 (1).png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+input:focus{
+    width: 15%;
+}
+
+#write{
+    width: 10%;
+    background-color: #ff9f7a;
+    color: white;
+    float: right;
+    margin-right: 1%;
+    margin-top: 1%;
+    background-image: url(images/write.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    cursor:pointer;
+}
+
+#write:focus{
+    outline: none;
+}
+
+#a{
+    color: grey;
+    font-size: x-large;
+    cursor:pointer;
+}
+#turn{
+    overflow: hidden;
+}
+#turn2{
+    height: 280px;
+    width: 20%;
+    /*display: inline-block;*/
+    float: left;
+    background-color: grey;
+    margin-top: 1%;
+    cursor: pointer;
+}
+
+#container {
+    width: 50%;
+    height: 280px;
+    /*box-shadow: 1px 1px 10px #aaa;*/
+    position: relative;
+    float: left;
+    margin-left:12.5%;
+    margin-top: 1%;
+}
+#container ul li{
+    float: top;
+    height: 100%;
+    list-style: none;
+    width: 100%;
+}
+
+ul {
+    width: 100%;
+    height: 280px;
+    position: relative;
+    overflow: hidden;
+}
+
+li {
+    list-style: none;
+    position: absolute;
+    /*top: 0px;*/
+    /*left: 0;*/
+
+}
+
+@keyframes pic_1{
+0% {opacity: 1;}
+25% { opacity: 1;}
+26% { opacity: 0;}
+40% { opacity: 0;}
+91% { opacity: 0;}
+100% { opacity: 1;}
+}
+
+@-webkit-keyframes pic_2 {
+    0% { opacity: 0;}
+    25% { opacity: 0;}
+    26% { opacity: 1;}
+    60% { opacity: 1;}
+    61% { opacity: 0;}
+    100% { opacity: 0;}
+}
+@-webkit-keyframes pic_3 {
+    0% { opacity: 0;}
+    60% { opacity: 0;}
+    61% { opacity: 1;}
+    91% { opacity: 1;}
+    100% { opacity: 0;}
+}
+
+li{
+    background-size: 100% 85%;
+}
+#first {
+    animation: pic_1 15s infinite;
+}
+
+#second{
+    animation: pic_2 15s infinite;
+}
+#third{
+    animation: pic_3 15s infinite;
+}
+
+#slide:hover li {
+    animation-play-state: paused;
+}
+
+/*右边向上的轮播图*/
+#turn2{
+    overflow: hidden;
+}
+#turn2 ul li{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    animation: lb 12s  cubic-bezier(0.3,0.4,0.3,1) 0s infinite;
+}
+
+@keyframes lb {
+    0%{
+        top: 0%;
+    }
+    25%{
+        top:0%;
+    }
+    30%{
+        top:-100%;
+    }
+    55%{
+        top:-100%;
+    }
+    60%{
+        top:-200%;
+    }
+    85%{
+        top:-200%;
+    }
+    90%{
+        top:0%;
+    }
+}
+
+#turn2 ul li{
+    float: top;
+    height: 100%;
+    list-style: none;
+    width: 100%;
+}
+
+#container ul li{
+    float: top;
+    height: 100%;
+    list-style: none;
+    width: 100%;
+}
+
+button{
+    position: relative;
+    line-height: 38px;
+    outline: none;
+    height: 38px;
+    /*color: #ff9f7a;*/
+    border-radius: 5px;
+}
+#nav{
+    margin-left: 12.5%;
+    margin-top: 1%;
+    overflow: hidden;
+    /*margin-right: 12.5%;*/
+    width: 80%;
+}
+#type{
+    /*margin-left:0%;*/
+    float: left;
+    width: 60%;
+}
+#run{
+    width: 150px;
+}
+
+#article,#jun,#design,#IT,#life,#art,#wuxia {
+    width: 130px;
+  margin-top: 2%;
+}
+
+button img{
+    position: absolute;
+    left: 0;
+    height: 100%;
+}
+
+#hot{
+    margin: 1%;
+    float: right;
+    width: 27%;
+    margin-right: 10%;
+    opacity: 0.5;
+    position: relative;
+}
+
+#update{
+    background-color: blueviolet;
+    color: white;
+    margin: 2%;
+    width: 90%;
+    left: 0px;
+}
+
+#ribao{
+    background-color: aqua;
+    color: white;
+    margin: 2%;
+    width: 90%;
+}
+
+#seven{
+    background-color: yellow;
+    color: white;
+    margin: 2%;
+    width: 90%;
+}
+
+#thirty{
+    background-color: palevioletred;
+    color: white;
+    margin: 2%;
+    width: 90%;
+}
+
+#lists{
+    width: 50%;
+    margin-top: 3%;
+    margin-left: 1%;
+}
