@@ -26,7 +26,7 @@
       <file leaf-file-name="test1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
+            <state relative-caret-position="740">
               <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -36,14 +36,14 @@
         </entry>
       </file>
       <file leaf-file-name="art.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/art.png">
+        <entry file="file://$PROJECT_DIR$/images/art.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="one.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/one.jpg">
+        <entry file="file://$PROJECT_DIR$/images/one.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -70,21 +70,21 @@
         </entry>
       </file>
       <file leaf-file-name="three.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/three.jpg">
+        <entry file="file://$PROJECT_DIR$/images/three.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="write.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/write.png">
+        <entry file="file://$PROJECT_DIR$/images/write.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="item3.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/item3.jpg">
+        <entry file="file://$PROJECT_DIR$/images/item3.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -105,8 +105,8 @@
       <list>
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/test1.html" />
         <option value="$PROJECT_DIR$/eee.js" />
+        <option value="$PROJECT_DIR$/test1.html" />
       </list>
     </option>
   </component>
@@ -180,6 +180,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -259,12 +264,12 @@
       <workItem from="1491028416374" duration="5605000" />
       <workItem from="1491101835023" duration="7147000" />
       <workItem from="1491566304357" duration="14000" />
-      <workItem from="1491653169966" duration="215000" />
+      <workItem from="1491653169966" duration="531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45469000" />
+    <option name="totallyTimeSpent" value="45785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="24" width="1309" height="744" extended-state="6" />
@@ -306,17 +311,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/three.jpg">
+    <entry file="file://$PROJECT_DIR$/images/three.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write.png">
+    <entry file="file://$PROJECT_DIR$/images/write.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item3.jpg">
+    <entry file="file://$PROJECT_DIR$/images/item3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -331,7 +336,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one.jpg">
+    <entry file="file://$PROJECT_DIR$/images/one.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -352,12 +357,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write.png">
+    <entry file="file://$PROJECT_DIR$/images/write.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item3.jpg">
+    <entry file="file://$PROJECT_DIR$/images/item3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -372,7 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one.jpg">
+    <entry file="file://$PROJECT_DIR$/images/one.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -393,12 +398,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write.png">
+    <entry file="file://$PROJECT_DIR$/images/write.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item3.jpg">
+    <entry file="file://$PROJECT_DIR$/images/item3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -413,7 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one.jpg">
+    <entry file="file://$PROJECT_DIR$/images/one.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -434,12 +439,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write.png">
+    <entry file="file://$PROJECT_DIR$/images/write.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item3.jpg">
+    <entry file="file://$PROJECT_DIR$/images/item3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -454,7 +459,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one.jpg">
+    <entry file="file://$PROJECT_DIR$/images/one.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -475,12 +480,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write.png">
+    <entry file="file://$PROJECT_DIR$/images/write.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item3.jpg">
+    <entry file="file://$PROJECT_DIR$/images/item3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -495,7 +500,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one.jpg">
+    <entry file="file://$PROJECT_DIR$/images/one.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -516,12 +521,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write.png">
+    <entry file="file://$PROJECT_DIR$/images/write.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item3.jpg">
+    <entry file="file://$PROJECT_DIR$/images/item3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -536,7 +541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one.jpg">
+    <entry file="file://$PROJECT_DIR$/images/one.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -557,12 +562,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write.png">
+    <entry file="file://$PROJECT_DIR$/images/write.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item3.jpg">
+    <entry file="file://$PROJECT_DIR$/images/item3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -585,12 +590,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html" />
-    <entry file="file://$PROJECT_DIR$/item3.jpg">
+    <entry file="file://$PROJECT_DIR$/images/item3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/write.png">
+    <entry file="file://$PROJECT_DIR$/images/write.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -603,17 +608,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one.jpg">
+    <entry file="file://$PROJECT_DIR$/images/one.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/three.jpg">
+    <entry file="file://$PROJECT_DIR$/images/three.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/art.png">
+    <entry file="file://$PROJECT_DIR$/images/art.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -636,7 +641,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
+        <state relative-caret-position="740">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
